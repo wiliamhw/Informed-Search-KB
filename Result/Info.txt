@@ -1,0 +1,16 @@
+Color info:
+* red = obstacles
+* green = path
+* cyan = closed / expanded nodes
+* blue = open / fringe nodes
+
+Comparison between maze based on sizes and ammount of obstacles
+
+** Sizes description
+* small = 15x15 maze
+* large = 30x30 maze
+
+** Ammount of obstacles description
+* narrow --> 25% nodes in maze is obstacles
+* broad --> 5% nodes in maze is obstacles
+
